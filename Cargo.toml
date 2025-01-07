@@ -1,0 +1,86 @@
+[package]
+name = "Rust_App"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "App"
+path = "src/App/App.rs"
+
+[[bin]]
+name = "Array_Methods"
+path = "src/Array_Methods/Array_Methods.rs"
+
+[[bin]]
+name = "Arrays"
+path = "src/Arrays/Arrays.rs"
+
+[[bin]]
+name = "Casting_Converting"
+path = "src/Casting_Converting/Casting_Converting.rs"
+
+[[bin]]
+name = "Classes_and_Objects"
+path = "src/Classes_and_Objects/Classes_and_Objects.rs"
+
+[[bin]]
+name = "Constructors"
+path = "src/Constructors/Constructors.rs"
+
+[[bin]]
+name = "Dictionaries"
+path = "src/Dictionaries/Dictionaries.rs"
+
+[[bin]]
+name = "Dimensional_Arrays"
+path = "src/Dimensional_Arrays/Dimensional_Arrays.rs"
+
+[[bin]]
+name = "Exception_Catching"
+path = "src/Exception_Catching/Exception_Catching.rs"
+
+[[bin]]
+name = "For_Loops"
+path = "src/For_Loops/For_Loops.rs"
+
+[[bin]]
+name = "Getters_and_Setters"
+path = "src/Getters_and_Setters/Getters_and_Setters.rs"
+
+[[bin]]
+name = "If_Statements"
+path = "src/If_Statements/If_Statements.rs"
+
+[[bin]]
+name = "Inheritance"
+path = "src/Inheritance/Inheritance.rs"
+
+[[bin]]
+name = "Methods"
+path = "src/Methods/Methods.rs"
+
+[[bin]]
+name = "Numbers"
+path = "src/Numbers/Numbers.rs"
+
+[[bin]]
+name = "Strings"
+path = "src/Strings/Strings.rs"
+
+[[bin]]
+name = "Switch_Statements"
+path = "src/Switch_Statements/Switch_Statements.rs"
+
+[[bin]]
+name = "User_Input"
+path = "src/User_Input/User_Input.rs"
+
+[[bin]]
+name = "Variables"
+path = "src/Variables/Variables.rs"
+
+[[bin]]
+name = "While_Loops"
+path = "src/While_Loops/While_Loops.rs"
