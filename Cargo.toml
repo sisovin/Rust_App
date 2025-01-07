@@ -6,8 +6,8 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "App"
-path = "src/App/App.rs"
+name = "App_First"
+path = "src/App_First/App.rs"
 
 [[bin]]
 name = "Array_Methods"
