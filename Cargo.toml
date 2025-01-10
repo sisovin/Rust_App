@@ -84,7 +84,10 @@ path = "src/Variables/Variables.rs"
 [[bin]]
 name = "While_Loops"
 path = "src/While_Loops/While_Loops.rs"
+<<<<<<< HEAD
 
 [[bin]]
 name = "guess"
 path = "src/Guess/guess.rs"
+=======
+>>>>>>> efaffec033b2fbd9b26a12b5c59f25288d5add8b
