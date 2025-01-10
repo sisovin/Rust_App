@@ -1,6 +1,6 @@
 fn main() {
     // Convert float to integer
-    let float_value = 3.14;
+    let float_value = std::f64::consts::PI;
     let int_value = float_value as i32;
     println!("{}", int_value);
 

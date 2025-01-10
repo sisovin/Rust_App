@@ -1,6 +1,6 @@
 fn main() {
     // Define an array with mixed types (not allowed in Rust, so we'll use a vector of strings for demonstration)
-    let mut lucky_numbers = vec!["4", "8", "fifteen", "16", "23", "42.0"];
+    let mut lucky_numbers = ["4", "8", "fifteen", "16", "23", "42.0"];
 
     // Update the first element
     lucky_numbers[0] = "90";

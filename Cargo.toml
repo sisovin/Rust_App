@@ -1,13 +1,13 @@
 [package]
-name = "Rust_App"
+name = "Rust_Basics"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 
 [[bin]]
-name = "App"
-path = "src/App/App.rs"
+name = "App_First"
+path = "src/App_First/App.rs"
 
 [[bin]]
 name = "Array_Methods"
@@ -84,3 +84,7 @@ path = "src/Variables/Variables.rs"
 [[bin]]
 name = "While_Loops"
 path = "src/While_Loops/While_Loops.rs"
+
+[[bin]]
+name = "guess"
+path = "src/Guess/guess.rs"
